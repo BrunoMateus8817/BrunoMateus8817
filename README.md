@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="coding-profile.png" alt="Imagem de Bruno desenvolvendo com tecnologias" width="600"/>
+</p>
+
 # 👋 Olá! Eu sou o Bruno Mateus Barbosa Santos
 
 🎓 Estudante de Engenharia de Software (Estácio)  
