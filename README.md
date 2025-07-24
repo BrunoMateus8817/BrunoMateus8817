@@ -38,10 +38,27 @@ Você pode acompanhar meus projetos públicos aqui no GitHub e também pelo meu 
 
 ## 📈 Em aprendizado constante
 
-- Estruturas de dados e algoritmos
-- Visualização de dados e Storytelling com Dados
-- Arquitetura de software e engenharia semiótica
-- Low Carb e Jejum Intermitente (projeto de eBook em andamento)
+- Pensamento Computacional e Paradigmas em Python
+
+- Arquitetura de Computadores e Sistemas
+
+- Desenvolvimento Web com HTML5, CSS, JavaScript, PHP e Full MVC
+
+- Banco de Dados (relacional e NoSQL)
+
+- Programação Orientada a Objetos em Java
+
+- Desenvolvimento de Front-end e Back-end
+
+- Engenharia de Usabilidade e Requisitos de Sistemas
+
+- Computação em Nuvem e Sistemas Distribuídos
+
+- DevOps, Qualidade e Testes de Software
+
+- Modelagem em UML, Big Data e Python para Análise de Dados
+
+- Engenharia de Produto, Métodos Ágeis com Scrum e Gerência de Configuração
 
 ---
 
